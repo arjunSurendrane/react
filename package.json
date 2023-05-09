@@ -2,7 +2,6 @@
   "name": "practice-react",
   "version": "1.0.0",
   "description": "This is the react learning file",
-  "main": "App.js",
   "scripts": {
     "test": "jest",
     "start": "parcel index.html",
