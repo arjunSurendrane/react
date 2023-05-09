@@ -1,0 +1,24 @@
+------------- Parcel ----------------
+HMR - hot module reloader
+file watcher algoritham - written in c++ - it is the algoritham is used parcel for HMR
+
+=> minify
+=> bundle
+=> clean the code
+=> caching while development
+=> Image optimisation
+=> compression
+=> rename your variables
+=> compartable with older version of browsers
+=> it add polyfills
+=> https on development build
+=> manage prot num  (Q how)
+=> zero config bundler
+=> browser list
+=> tree shaking  delete unwanted codes
+
+
+
+Home work 
+
+=> difference between html and jsx
