@@ -22,3 +22,8 @@ file watcher algoritham - written in c++ - it is the algoritham is used parcel f
 Home work 
 
 => difference between html and jsx
+
+
+
+
+=> config driven ui
